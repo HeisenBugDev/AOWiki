@@ -1,0 +1,1 @@
+**Animals Overhaul** is a mod for ModJam 2 created by HeisenBugMC (sammko, LordFokas, hunterb, and wtg62). We plan on improving the way minecraft animal breeding works, separate males and females, also add nests for chickens and other features.

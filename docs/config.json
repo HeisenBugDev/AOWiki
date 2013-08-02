@@ -1,0 +1,15 @@
+{
+	"clean_urls": false,
+	"title": "Animals Overhaul",
+	"tagline": "Minecraft mod for ModJam 2",
+	"image": "",
+	"theme": "red",
+	"repo": "HeisenBugMC/ModJam2",
+	"twitter": ["sammmko", "hunterboerner"],
+	"google_analytics": "",
+	"links": {
+		"Modjam 2": "http://modjam.net/",
+		"GitHub Repo": "https://github.com/QuantumCraft/QuantumCraft",
+		"Help/Support/Bugs": "https://github.com/QuantumCraft/QuantumCraft/issues"
+	}
+}
