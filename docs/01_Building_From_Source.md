@@ -1,0 +1,1 @@
+Building from source is easier than raping a pig. Simply clone the repo or download it from github. CD into the folder and run build.xml using the command 'ant'. If ant is not installed, then install it!
